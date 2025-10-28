@@ -52,9 +52,7 @@ Self-learning in AI/ML, Image Processing, and Cloud Automation
 
 📫 Connect with Me
 
-💼 LinkedIn
-
-🧑‍💻 GitHub
+🧑‍💻 GitHub:https://github.com/AyushiJ0801
 
 ✉️ Email: ayushijoshi0108@gmail.com
 
