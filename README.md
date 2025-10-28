@@ -58,4 +58,4 @@ Self-learning in AI/ML, Image Processing, and Cloud Automation
 
 ✨ Fun Fact
 
-I love creating things that combine data, design, and technology — from machine learning models to visually stunning reports!
+I enjoy turning complex data and ideas into simple, beautiful visuals that tell a clear story.
